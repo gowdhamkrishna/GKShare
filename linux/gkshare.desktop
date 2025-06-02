@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=GKShare
+Comment=File sharing application
+Exec=gkshare
+Icon=gkshare
+Terminal=false
+Type=Application
+Categories=Utility;
+StartupWMClass=gkshare 
